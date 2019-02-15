@@ -1,0 +1,6 @@
+c:\users\yorkin\source\repos\NetworkLibrary\NetworkLibrary\bin\Debug\NetworkLibrary.dll
+c:\users\yorkin\source\repos\NetworkLibrary\NetworkLibrary\bin\Debug\NetworkLibrary.pdb
+c:\users\yorkin\source\repos\NetworkLibrary\NetworkLibrary\obj\Debug\NetworkLibrary.csprojResolveAssemblyReference.cache
+c:\users\yorkin\source\repos\NetworkLibrary\NetworkLibrary\obj\Debug\NetworkLibrary.csproj.CoreCompileInputs.cache
+c:\users\yorkin\source\repos\NetworkLibrary\NetworkLibrary\obj\Debug\NetworkLibrary.dll
+c:\users\yorkin\source\repos\NetworkLibrary\NetworkLibrary\obj\Debug\NetworkLibrary.pdb
